@@ -13,6 +13,9 @@ This is my first time creating for the project while this is my first semester s
 - os
 - json
 
+### Create login.py
+Rename login_preset.py to login.py and enter your username + access token
+
 ### Starter File:
 launcher.py
 
