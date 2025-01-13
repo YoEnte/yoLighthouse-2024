@@ -1,3 +1,0 @@
-pyghthouse
-time
-os
